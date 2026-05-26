@@ -1,0 +1,8 @@
+{
+  "name": "slack-qr-generator",
+  "version": "1.0.0",
+  "dependencies": {
+    "qrcode": "^1.5.3",
+    "sharp": "^0.33.0"
+  }
+}
